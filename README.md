@@ -18,4 +18,4 @@ PROJECT IDEA FROM:
 
 datacamp
 
-* the file named workspace.zip contains all of the files above.
+* the file named workspace.zip contains all of the files above, excluding README.md
